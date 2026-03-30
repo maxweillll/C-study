@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson5_泛型\bin\Debug\Lesson5_泛型.exe.config
+E:\code\csharp\CSharp进阶\Lesson5_泛型\bin\Debug\Lesson5_泛型.exe
+E:\code\csharp\CSharp进阶\Lesson5_泛型\bin\Debug\Lesson5_泛型.pdb
+E:\code\csharp\CSharp进阶\Lesson5_泛型\obj\Debug\Lesson5_泛型.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson5_泛型\obj\Debug\Lesson5_泛型.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson5_泛型\obj\Debug\Lesson5_泛型.exe
+E:\code\csharp\CSharp进阶\Lesson5_泛型\obj\Debug\Lesson5_泛型.pdb
+E:\code\csharp\CSharp进阶\Lesson5_泛型\obj\Debug\Lesson5_泛型.exe.config

@@ -1,0 +1,7 @@
+E:\code\csharp\CSharp进阶\Lesson3_queue\bin\Debug\Lesson3_queue.exe.config
+E:\code\csharp\CSharp进阶\Lesson3_queue\bin\Debug\Lesson3_queue.exe
+E:\code\csharp\CSharp进阶\Lesson3_queue\bin\Debug\Lesson3_queue.pdb
+E:\code\csharp\CSharp进阶\Lesson3_queue\obj\Debug\Lesson3_queue.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson3_queue\obj\Debug\Lesson3_queue.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson3_queue\obj\Debug\Lesson3_queue.exe
+E:\code\csharp\CSharp进阶\Lesson3_queue\obj\Debug\Lesson3_queue.pdb

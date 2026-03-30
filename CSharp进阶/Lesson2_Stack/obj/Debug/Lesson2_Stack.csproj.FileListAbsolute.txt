@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson2_Stack\obj\Debug\Lesson2_Stack.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson2_Stack\obj\Debug\Lesson2_Stack.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson2_Stack\bin\Debug\Lesson2_Stack.exe.config
+E:\code\csharp\CSharp进阶\Lesson2_Stack\bin\Debug\Lesson2_Stack.exe
+E:\code\csharp\CSharp进阶\Lesson2_Stack\bin\Debug\Lesson2_Stack.pdb
+E:\code\csharp\CSharp进阶\Lesson2_Stack\obj\Debug\Lesson2_Stack.exe
+E:\code\csharp\CSharp进阶\Lesson2_Stack\obj\Debug\Lesson2_Stack.pdb
+E:\code\csharp\CSharp进阶\Lesson2_Stack\obj\Debug\Lesson2_Stack.exe.config
