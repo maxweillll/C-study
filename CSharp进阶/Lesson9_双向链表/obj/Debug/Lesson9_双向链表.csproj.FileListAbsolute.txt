@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\bin\Debug\Lesson9_双向链表.exe.config
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\bin\Debug\Lesson9_双向链表.exe
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\bin\Debug\Lesson9_双向链表.pdb
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\obj\Debug\Lesson9_双向链表.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\obj\Debug\Lesson9_双向链表.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\obj\Debug\Lesson9_双向链表.exe
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\obj\Debug\Lesson9_双向链表.pdb
+E:\code\csharp\CSharp进阶\Lesson9_双向链表\obj\Debug\Lesson9_双向链表.exe.config

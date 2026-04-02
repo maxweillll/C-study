@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson7_List\bin\Debug\Lesson7_List.exe.config
+E:\code\csharp\CSharp进阶\Lesson7_List\bin\Debug\Lesson7_List.exe
+E:\code\csharp\CSharp进阶\Lesson7_List\bin\Debug\Lesson7_List.pdb
+E:\code\csharp\CSharp进阶\Lesson7_List\obj\Debug\Lesson7_List.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson7_List\obj\Debug\Lesson7_List.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson7_List\obj\Debug\Lesson7_List.exe
+E:\code\csharp\CSharp进阶\Lesson7_List\obj\Debug\Lesson7_List.pdb
+E:\code\csharp\CSharp进阶\Lesson7_List\obj\Debug\Lesson7_List.exe.config

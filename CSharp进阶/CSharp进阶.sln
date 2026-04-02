@@ -13,7 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Hashtable", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_泛型", "Lesson5_泛型\Lesson5_泛型.csproj", "{33F68B5B-AD76-4DA5-8B49-8E79D8AEEA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_泛型约束", "lLesson3_泛型约束\Lesson6_泛型约束.csproj", "{65EB8F37-B439-4382-9557-A9E98157DD73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_泛型约束", "Lesson6_泛型约束\Lesson6_泛型约束.csproj", "{65EB8F37-B439-4382-9557-A9E98157DD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_List", "Lesson7_List\Lesson7_List.csproj", "{95545533-5127-49F9-A8BD-39C78F41E419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_Dictionary", "Lesson8_Dictionary\Lesson8_Dictionary.csproj", "{32388857-8B5F-421F-AFC5-D0110FE4ACB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_双向链表", "Lesson9_双向链表\Lesson9_双向链表.csproj", "{62A8BA46-F0A2-42BF-8FB1-EBDC08278E54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{65EB8F37-B439-4382-9557-A9E98157DD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65EB8F37-B439-4382-9557-A9E98157DD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65EB8F37-B439-4382-9557-A9E98157DD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95545533-5127-49F9-A8BD-39C78F41E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95545533-5127-49F9-A8BD-39C78F41E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95545533-5127-49F9-A8BD-39C78F41E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95545533-5127-49F9-A8BD-39C78F41E419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32388857-8B5F-421F-AFC5-D0110FE4ACB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32388857-8B5F-421F-AFC5-D0110FE4ACB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32388857-8B5F-421F-AFC5-D0110FE4ACB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32388857-8B5F-421F-AFC5-D0110FE4ACB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A8BA46-F0A2-42BF-8FB1-EBDC08278E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A8BA46-F0A2-42BF-8FB1-EBDC08278E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A8BA46-F0A2-42BF-8FB1-EBDC08278E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A8BA46-F0A2-42BF-8FB1-EBDC08278E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

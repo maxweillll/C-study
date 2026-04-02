@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\bin\Debug\Lesson8_Dictionary.exe.config
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\bin\Debug\Lesson8_Dictionary.exe
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\bin\Debug\Lesson8_Dictionary.pdb
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\obj\Debug\Lesson8_Dictionary.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\obj\Debug\Lesson8_Dictionary.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\obj\Debug\Lesson8_Dictionary.exe
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\obj\Debug\Lesson8_Dictionary.pdb
+E:\code\csharp\CSharp进阶\Lesson8_Dictionary\obj\Debug\Lesson8_Dictionary.exe.config
