@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson13_事件\bin\Debug\Lesson13_事件.exe.config
+E:\code\csharp\CSharp进阶\Lesson13_事件\bin\Debug\Lesson13_事件.exe
+E:\code\csharp\CSharp进阶\Lesson13_事件\bin\Debug\Lesson13_事件.pdb
+E:\code\csharp\CSharp进阶\Lesson13_事件\obj\Debug\Lesson13_事件.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson13_事件\obj\Debug\Lesson13_事件.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson13_事件\obj\Debug\Lesson13_事件.exe
+E:\code\csharp\CSharp进阶\Lesson13_事件\obj\Debug\Lesson13_事件.pdb
+E:\code\csharp\CSharp进阶\Lesson13_事件\obj\Debug\Lesson13_事件.exe.config

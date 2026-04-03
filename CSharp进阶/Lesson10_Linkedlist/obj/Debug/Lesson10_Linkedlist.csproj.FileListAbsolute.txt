@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\bin\Debug\Lesson10_Linkedlist.exe.config
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\bin\Debug\Lesson10_Linkedlist.exe
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\bin\Debug\Lesson10_Linkedlist.pdb
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\obj\Debug\Lesson10_Linkedlist.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\obj\Debug\Lesson10_Linkedlist.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\obj\Debug\Lesson10_Linkedlist.exe
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\obj\Debug\Lesson10_Linkedlist.pdb
+E:\code\csharp\CSharp进阶\Lesson10_Linkedlist\obj\Debug\Lesson10_Linkedlist.exe.config
