@@ -1,0 +1,8 @@
+E:\code\csharp\CSharp进阶\Lesson18_多线程\bin\Debug\Lesson18_多线程.exe.config
+E:\code\csharp\CSharp进阶\Lesson18_多线程\bin\Debug\Lesson18_多线程.exe
+E:\code\csharp\CSharp进阶\Lesson18_多线程\bin\Debug\Lesson18_多线程.pdb
+E:\code\csharp\CSharp进阶\Lesson18_多线程\obj\Debug\Lesson18_多线程.csproj.AssemblyReference.cache
+E:\code\csharp\CSharp进阶\Lesson18_多线程\obj\Debug\Lesson18_多线程.csproj.CoreCompileInputs.cache
+E:\code\csharp\CSharp进阶\Lesson18_多线程\obj\Debug\Lesson18_多线程.exe
+E:\code\csharp\CSharp进阶\Lesson18_多线程\obj\Debug\Lesson18_多线程.pdb
+E:\code\csharp\CSharp进阶\Lesson18_多线程\obj\Debug\Lesson18_多线程.exe.config
